@@ -1,0 +1,5 @@
+{
+  "name": "BeatBuddy Live Sync",
+  "description": "A comprehensive MIDI controller and setlist manager for Beat Buddy. Features real-time lyric synchronization, song management, and simulated offline Raspberry Pi syncing capabilities.",
+  "requestFramePermissions": []
+}
